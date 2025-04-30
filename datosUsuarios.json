@@ -1,0 +1,16 @@
+{
+    "usuarios": {
+        "usuario1": {
+            "Cuenta":"juansito@gmail.com",
+            "Contraseña": "ramsomware"
+        },
+        "usuario2": {
+            "Cuenta":"pablito@gmail.com",
+            "Contraseña": "malware"
+        },
+        "usuario3": {
+            "Cuenta":"pedrito@gmail.com",
+            "Contraseña": "wormware"
+        }
+    }
+}

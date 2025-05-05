@@ -25,18 +25,17 @@ def retirar(z,m):
     elif retiroDinero <= fondos:
         fondos=fondos-retiroDinero
         print("Retiro de dinero exitoso, Usted a retirado $", retiroDinero, " de su cuenta, su saldo actual es de $",fondos)
-    elif retiroDinero <=0:
-        print("Ingrese solo numeros positivos enteros")
 
-while True:    
-    respuesta=str(input("===Cajero Automático===\n[1] Consultar su Saldo\n[2] Depositar Dinero\n[3] Retirar Dinero\n[4] Salir\n"))
+while True:
+    print("===Cajero Automático===")
+    respuesta=str(input("\n[1] Consultar su Saldo\n[2] Depositar Dinero\n[3] Retirar Dinero\n[4] Salir\n>>>"))
     if respuesta == "1":
         saldo(fondos)
     elif respuesta == "2":
         while True:
             try:
                 depositoDinero=int(input("Ingrese el monto a depositar\n"))
-                depositar(depositoDinero)
+                depositar(depositoDinero, fondos)
                 break 
             except:
                 ValueError
@@ -45,11 +44,11 @@ while True:
         while True:
             try:
                 retiroDinero=int(input("Ingrese el monto a retirar"))
-                retirar(retiroDinero)
+                retirar(retiroDinero, fondos)
                 break
             except:
                 ValueError
-                print("Ingrese solo numeros enteros")
+                print("Ingrese solo numeros positivos enteros")
     else:
         print("Opcion Incorrecta intente de Nuevo")
     

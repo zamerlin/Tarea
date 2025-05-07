@@ -54,7 +54,7 @@ def agendar(titulo, x, contador, fondos):
 
 while True:
     print("===Cajero Automático===")
-    respuesta= str (input("\n[1] Consultar su Saldo\n[2] Depositar Dinero\n[3] Retirar Dinero\n[4] Salir\n>>>"))
+    respuesta= str (input("\n[1] Consultar su Saldo\n[2] Depositar Dinero\n[3] Retirar Dinero\n[4] Movimientos\n[5] Salir\n>>>"))
     
     if respuesta == "1":
         saldo(fondos)
@@ -85,10 +85,15 @@ while True:
                     break
             except:
                 ValueError
-                print("Ingrese solo numeros positivos enteros")
+                print("=Ingrese solo numeros positivos enteros=")
+    
+    elif respuesta == "4":
+        print("=Mostrando Movimientos=")
+        print(agenda)
     
     elif respuesta == "5":
-        print(agenda)
+        print("=Saliendo del Sistema, Que tenga Buen Día=")
+        break
     
     else:
         print("=Opcion Incorrecta, intente de Nuevo=")

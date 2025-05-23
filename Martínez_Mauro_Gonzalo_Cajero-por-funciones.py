@@ -17,15 +17,15 @@ fondos = 10000.0
 contador = 0
 
 def saldo(fondos):
-    print("=Su saldo es de $", fondos, "=")
+    print(f"=Su saldo es de $ {fondos} =")
     
 def depositar(fondos, contador, depositoDinero):
     titulo = "Depositar dinero"
     
     if depositoDinero > 0:
         fondos = fondos + depositoDinero
-        print("=Usted a ingresado $", depositoDinero, "a su cuenta exitosamente=")
-        print("=Su saldo actual es de $", fondos,"=")
+        print(f"=Usted a ingresado $ {depositoDinero} a su cuenta exitosamente=")
+        print(f"=Su saldo actual es de $ {fondos} =")
         contador = contador
         agendar(fondos, contador, titulo, depositoDinero) 
         return fondos
@@ -35,8 +35,8 @@ def retirar(fondos, contador, retiroDinero):
     
     if retiroDinero <= fondos:
         fondos = fondos - retiroDinero
-        print("=Retiro de dinero exitoso, Usted a retirado $", retiroDinero, " de su cuenta=")
-        print("=Su saldo actual es de $",fondos,"=")
+        print(f"=Retiro de dinero exitoso, Usted a retirado $ {retiroDinero} de su cuenta=")
+        print(f"=Su saldo actual es de $ {fondos} =")
         contador = contador
         agendar(fondos, contador, titulo, retiroDinero)
         return fondos

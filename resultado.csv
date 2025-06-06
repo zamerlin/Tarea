@@ -1,0 +1,720 @@
+provincia,sexo,clasificacion,cantidad
+Buenos Aires,F,Caso Descartado,119097
+Buenos Aires,F,Caso Invalidado Epidemiologicamente,21
+Buenos Aires,F,Caso con resultado negativo-no conclusivo - Fallecido,7
+Buenos Aires,F,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,135
+Buenos Aires,F,Caso confirmado por criterio clínico-epidemiologico - Fallecido,56
+Buenos Aires,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),13515
+Buenos Aires,F,Caso confirmado por laboratorio - Fallecido,1867
+Buenos Aires,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,2211
+Buenos Aires,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),72792
+Buenos Aires,F,Caso sospechoso  - No Activo -  Muestra no apta,76
+Buenos Aires,F,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,233
+Buenos Aires,F,Caso sospechoso - Activo Internado - Muestra no apta,10
+Buenos Aires,F,Caso sospechoso - Activo Internado - Sin muestra,160
+Buenos Aires,F,Caso sospechoso - Fallecido - Con muestra sin resultado concluyente,26
+Buenos Aires,F,Caso sospechoso - Fallecido - Muestra no apta,1
+Buenos Aires,F,Caso sospechoso - Fallecido - Sin muestra,19
+Buenos Aires,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,4300
+Buenos Aires,F,Caso sospechoso - No Activo - Sin muestra,2171
+Buenos Aires,F,Otro diagnostico,62
+Buenos Aires,F,Sin clasificar,8
+Buenos Aires,M,Caso Descartado,99573
+Buenos Aires,M,Caso Invalidado Epidemiologicamente,19
+Buenos Aires,M,Caso con resultado negativo-no conclusivo - Fallecido,10
+Buenos Aires,M,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,150
+Buenos Aires,M,Caso confirmado por criterio clínico-epidemiologico - Fallecido,42
+Buenos Aires,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),10980
+Buenos Aires,M,Caso confirmado por laboratorio - Fallecido,2585
+Buenos Aires,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,2721
+Buenos Aires,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),74614
+Buenos Aires,M,Caso sospechoso  - No Activo -  Muestra no apta,82
+Buenos Aires,M,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,224
+Buenos Aires,M,Caso sospechoso - Activo Internado - Muestra no apta,9
+Buenos Aires,M,Caso sospechoso - Activo Internado - Sin muestra,201
+Buenos Aires,M,Caso sospechoso - Fallecido - Con muestra sin resultado concluyente,29
+Buenos Aires,M,Caso sospechoso - Fallecido - Sin muestra,23
+Buenos Aires,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,4053
+Buenos Aires,M,Caso sospechoso - No Activo - Sin muestra,2047
+Buenos Aires,M,Otro diagnostico,64
+Buenos Aires,M,Sin clasificar,13
+Buenos Aires,NR,Caso Descartado,2281
+Buenos Aires,NR,Caso Invalidado Epidemiologicamente,2
+Buenos Aires,NR,Caso con resultado negativo-no conclusivo - Fallecido,1
+Buenos Aires,NR,Caso confirmado por criterio clinico-epidemiológico - Activo,2
+Buenos Aires,NR,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,5
+Buenos Aires,NR,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),382
+Buenos Aires,NR,Caso confirmado por laboratorio - Fallecido,56
+Buenos Aires,NR,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,44
+Buenos Aires,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1369
+Buenos Aires,NR,Caso sospechoso  - No Activo -  Muestra no apta,1
+Buenos Aires,NR,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,21
+Buenos Aires,NR,Caso sospechoso - Activo Internado - Muestra no apta,1
+Buenos Aires,NR,Caso sospechoso - Activo Internado - Sin muestra,20
+Buenos Aires,NR,Caso sospechoso - Fallecido - Con muestra sin resultado concluyente,1
+Buenos Aires,NR,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,196
+Buenos Aires,NR,Caso sospechoso - No Activo - Sin muestra,115
+Buenos Aires,NR,Otro diagnostico,1
+CABA,F,Caso Descartado,74727
+CABA,F,Caso con resultado negativo-no conclusivo - Fallecido,1
+CABA,F,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,5
+CABA,F,Caso confirmado por criterio clínico-epidemiologico - Fallecido,1
+CABA,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),103
+CABA,F,Caso confirmado por laboratorio - Fallecido,450
+CABA,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,1029
+CABA,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),23672
+CABA,F,Caso sospechoso  - No Activo -  Muestra no apta,8
+CABA,F,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,48
+CABA,F,Caso sospechoso - Activo Internado - Sin muestra,56
+CABA,F,Caso sospechoso - Fallecido - Con muestra sin resultado concluyente,4
+CABA,F,Caso sospechoso - Fallecido - Sin muestra,16
+CABA,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,1033
+CABA,F,Caso sospechoso - No Activo - Sin muestra,857
+CABA,F,Otro diagnostico,1
+CABA,F,Sin clasificar,6
+CABA,M,Caso Descartado,58186
+CABA,M,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,4
+CABA,M,Caso confirmado por criterio clínico-epidemiologico - Fallecido,1
+CABA,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),129
+CABA,M,Caso confirmado por laboratorio - Fallecido,617
+CABA,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,913
+CABA,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),23242
+CABA,M,Caso sospechoso  - No Activo -  Muestra no apta,5
+CABA,M,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,51
+CABA,M,Caso sospechoso - Activo Internado - Sin muestra,85
+CABA,M,Caso sospechoso - Fallecido - Con muestra sin resultado concluyente,6
+CABA,M,Caso sospechoso - Fallecido - Sin muestra,13
+CABA,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,807
+CABA,M,Caso sospechoso - No Activo - Sin muestra,753
+CABA,M,Otro diagnostico,6
+CABA,M,Sin clasificar,10
+CABA,NR,Caso Descartado,847
+CABA,NR,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),4
+CABA,NR,Caso confirmado por laboratorio - Fallecido,27
+CABA,NR,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,44
+CABA,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),593
+CABA,NR,Caso sospechoso - Activo Internado - Sin muestra,4
+CABA,NR,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,23
+CABA,NR,Caso sospechoso - No Activo - Sin muestra,39
+CABA,NR,Otro diagnostico,1
+Catamarca,F,Caso Descartado,2645
+Catamarca,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),4
+Catamarca,F,Caso confirmado por laboratorio - Fallecido,23
+Catamarca,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,36
+Catamarca,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1231
+Catamarca,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,11
+Catamarca,F,Caso sospechoso - No Activo - Sin muestra,14
+Catamarca,M,Caso Descartado,2322
+Catamarca,M,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,1
+Catamarca,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),2
+Catamarca,M,Caso confirmado por laboratorio - Fallecido,20
+Catamarca,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,52
+Catamarca,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1170
+Catamarca,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,35
+Catamarca,M,Caso sospechoso - No Activo - Sin muestra,11
+Catamarca,M,Otro diagnostico,1
+Catamarca,M,Sin clasificar,1
+Catamarca,NR,Caso Descartado,24
+Catamarca,NR,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,1
+Catamarca,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),10
+Chaco,F,Caso Descartado,7091
+Chaco,F,Caso con resultado negativo-no conclusivo - Fallecido,1
+Chaco,F,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,2
+Chaco,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),34
+Chaco,F,Caso confirmado por laboratorio - Fallecido,39
+Chaco,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,126
+Chaco,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1875
+Chaco,F,Caso sospechoso  - No Activo -  Muestra no apta,7
+Chaco,F,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,3
+Chaco,F,Caso sospechoso - Activo Internado - Muestra no apta,1
+Chaco,F,Caso sospechoso - Activo Internado - Sin muestra,9
+Chaco,F,Caso sospechoso - Fallecido - Sin muestra,4
+Chaco,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,99
+Chaco,F,Caso sospechoso - No Activo - Sin muestra,133
+Chaco,F,Otro diagnostico,2
+Chaco,F,Sin clasificar,1
+Chaco,M,Caso Descartado,6060
+Chaco,M,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,2
+Chaco,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),32
+Chaco,M,Caso confirmado por laboratorio - Fallecido,51
+Chaco,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,145
+Chaco,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1628
+Chaco,M,Caso sospechoso  - No Activo -  Muestra no apta,3
+Chaco,M,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,5
+Chaco,M,Caso sospechoso - Activo Internado - Sin muestra,8
+Chaco,M,Caso sospechoso - Fallecido - Sin muestra,1
+Chaco,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,114
+Chaco,M,Caso sospechoso - No Activo - Sin muestra,178
+Chaco,NR,Caso Descartado,65
+Chaco,NR,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,1
+Chaco,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),9
+Chaco,NR,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,2
+Chaco,NR,Caso sospechoso - Activo Internado - Sin muestra,2
+Chaco,NR,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,5
+Chaco,NR,Caso sospechoso - No Activo - Sin muestra,5
+Chubut,F,Caso Descartado,3040
+Chubut,F,Caso Invalidado Epidemiologicamente,9
+Chubut,F,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,6
+Chubut,F,Caso confirmado por criterio clínico-epidemiologico - Fallecido,2
+Chubut,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),374
+Chubut,F,Caso confirmado por laboratorio - Fallecido,25
+Chubut,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,8
+Chubut,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),930
+Chubut,F,Caso sospechoso - Activo Internado - Sin muestra,2
+Chubut,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,11
+Chubut,F,Caso sospechoso - No Activo - Sin muestra,169
+Chubut,F,Otro diagnostico,1
+Chubut,M,Caso Descartado,2812
+Chubut,M,Caso Invalidado Epidemiologicamente,6
+Chubut,M,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,3
+Chubut,M,Caso confirmado por criterio clínico-epidemiologico - Fallecido,9
+Chubut,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),309
+Chubut,M,Caso confirmado por laboratorio - Fallecido,21
+Chubut,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,10
+Chubut,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),968
+Chubut,M,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,1
+Chubut,M,Caso sospechoso - Fallecido - Sin muestra,2
+Chubut,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,36
+Chubut,M,Caso sospechoso - No Activo - Sin muestra,243
+Chubut,M,Otro diagnostico,2
+Chubut,NR,Caso Descartado,37
+Chubut,NR,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),7
+Chubut,NR,Caso confirmado por laboratorio - Fallecido,1
+Chubut,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),24
+Chubut,NR,Caso sospechoso - No Activo - Sin muestra,1
+Chubut,NR,Sin clasificar,1
+Corrientes,F,Caso Descartado,7950
+Corrientes,F,Caso confirmado por criterio clínico-epidemiologico - Fallecido,2
+Corrientes,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),8
+Corrientes,F,Caso confirmado por laboratorio - Fallecido,37
+Corrientes,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,71
+Corrientes,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1846
+Corrientes,F,Caso sospechoso - Fallecido - Con muestra sin resultado concluyente,1
+Corrientes,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,45
+Corrientes,F,Caso sospechoso - No Activo - Sin muestra,22
+Corrientes,M,Caso Descartado,7475
+Corrientes,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),13
+Corrientes,M,Caso confirmado por laboratorio - Fallecido,39
+Corrientes,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,86
+Corrientes,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1818
+Corrientes,M,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,1
+Corrientes,M,Caso sospechoso - Fallecido - Con muestra sin resultado concluyente,1
+Corrientes,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,47
+Corrientes,M,Caso sospechoso - No Activo - Sin muestra,26
+Corrientes,NR,Caso Descartado,1
+Corrientes,NR,Caso confirmado por laboratorio - Fallecido,1
+Corrientes,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1
+Corrientes,NR,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,1
+Córdoba,F,Caso Descartado,42341
+Córdoba,F,Caso con resultado negativo-no conclusivo - Fallecido,2
+Córdoba,F,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,1
+Córdoba,F,Caso confirmado por criterio clínico-epidemiologico - Fallecido,2
+Córdoba,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),172
+Córdoba,F,Caso confirmado por laboratorio - Fallecido,115
+Córdoba,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,42
+Córdoba,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),12502
+Córdoba,F,Caso sospechoso  - No Activo -  Muestra no apta,8
+Córdoba,F,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,9
+Córdoba,F,Caso sospechoso - Activo Internado - Muestra no apta,2
+Córdoba,F,Caso sospechoso - Activo Internado - Sin muestra,75
+Córdoba,F,Caso sospechoso - Fallecido - Con muestra sin resultado concluyente,5
+Córdoba,F,Caso sospechoso - Fallecido - Sin muestra,8
+Córdoba,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,1026
+Córdoba,F,Caso sospechoso - No Activo - Sin muestra,1833
+Córdoba,F,Otro diagnostico,104
+Córdoba,M,Caso Descartado,34459
+Córdoba,M,Caso Invalidado Epidemiologicamente,2
+Córdoba,M,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,8
+Córdoba,M,Caso confirmado por criterio clínico-epidemiologico - Fallecido,1
+Córdoba,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),141
+Córdoba,M,Caso confirmado por laboratorio - Fallecido,140
+Córdoba,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,45
+Córdoba,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),11815
+Córdoba,M,Caso sospechoso  - No Activo -  Muestra no apta,8
+Córdoba,M,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,7
+Córdoba,M,Caso sospechoso - Activo Internado - Muestra no apta,9
+Córdoba,M,Caso sospechoso - Activo Internado - Sin muestra,66
+Córdoba,M,Caso sospechoso - Fallecido - Con muestra sin resultado concluyente,4
+Córdoba,M,Caso sospechoso - Fallecido - Sin muestra,6
+Córdoba,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,827
+Córdoba,M,Caso sospechoso - No Activo - Sin muestra,1460
+Córdoba,M,Otro diagnostico,62
+Córdoba,NR,Caso Descartado,64
+Córdoba,NR,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),2
+Córdoba,NR,Caso confirmado por laboratorio - Fallecido,1
+Córdoba,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),49
+Córdoba,NR,Caso sospechoso  - Activo -  Sin muestra,1
+Córdoba,NR,Caso sospechoso - Activo Internado - Sin muestra,3
+Córdoba,NR,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,15
+Córdoba,NR,Caso sospechoso - No Activo - Sin muestra,17
+Entre Ríos,F,Caso Descartado,3664
+Entre Ríos,F,Caso Invalidado Epidemiologicamente,4
+Entre Ríos,F,Caso confirmado por criterio clinico-epidemiológico - Activo,1
+Entre Ríos,F,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,27
+Entre Ríos,F,Caso confirmado por criterio clínico-epidemiologico - Fallecido,2
+Entre Ríos,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),1198
+Entre Ríos,F,Caso confirmado por laboratorio - Fallecido,22
+Entre Ríos,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,49
+Entre Ríos,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),2432
+Entre Ríos,F,Caso sospechoso  - No Activo -  Muestra no apta,2
+Entre Ríos,F,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,2
+Entre Ríos,F,Caso sospechoso - Activo Internado - Muestra no apta,2
+Entre Ríos,F,Caso sospechoso - Fallecido - Con muestra sin resultado concluyente,1
+Entre Ríos,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,76
+Entre Ríos,F,Caso sospechoso - No Activo - Sin muestra,34
+Entre Ríos,M,Caso Descartado,3013
+Entre Ríos,M,Caso Invalidado Epidemiologicamente,3
+Entre Ríos,M,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,15
+Entre Ríos,M,Caso confirmado por criterio clínico-epidemiologico - Fallecido,3
+Entre Ríos,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),777
+Entre Ríos,M,Caso confirmado por laboratorio - Fallecido,47
+Entre Ríos,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,63
+Entre Ríos,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),2256
+Entre Ríos,M,Caso sospechoso - Activo Internado - Sin muestra,2
+Entre Ríos,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,61
+Entre Ríos,M,Caso sospechoso - No Activo - Sin muestra,28
+Entre Ríos,M,Otro diagnostico,3
+Entre Ríos,NR,Caso Descartado,44
+Entre Ríos,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1
+Entre Ríos,NR,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,2
+Formosa,F,Caso Descartado,3619
+Formosa,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),6
+Formosa,F,Caso confirmado por laboratorio - Fallecido,15
+Formosa,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,144
+Formosa,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),439
+Formosa,F,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,1
+Formosa,F,Caso sospechoso - Activo Internado - Sin muestra,1
+Formosa,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,7
+Formosa,F,Caso sospechoso - No Activo - Sin muestra,17
+Formosa,M,Caso Descartado,4190
+Formosa,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),4
+Formosa,M,Caso confirmado por laboratorio - Fallecido,21
+Formosa,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,205
+Formosa,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),422
+Formosa,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,7
+Formosa,M,Caso sospechoso - No Activo - Sin muestra,22
+Formosa,NR,Caso Descartado,1
+Formosa,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),2
+Formosa,NR,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,1
+Jujuy,F,Caso Descartado,2806
+Jujuy,F,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,1
+Jujuy,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),9
+Jujuy,F,Caso confirmado por laboratorio - Fallecido,15
+Jujuy,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,19
+Jujuy,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),624
+Jujuy,F,Caso sospechoso - Activo Internado - Sin muestra,4
+Jujuy,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,21
+Jujuy,F,Caso sospechoso - No Activo - Sin muestra,30
+Jujuy,F,Otro diagnostico,1
+Jujuy,M,Caso Descartado,2417
+Jujuy,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),5
+Jujuy,M,Caso confirmado por laboratorio - Fallecido,13
+Jujuy,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,23
+Jujuy,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),566
+Jujuy,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,36
+Jujuy,M,Caso sospechoso - No Activo - Sin muestra,25
+Jujuy,NR,Caso Descartado,72
+Jujuy,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),8
+Jujuy,NR,Caso sospechoso - No Activo - Sin muestra,1
+La Pampa,F,Caso Descartado,3993
+La Pampa,F,Caso Invalidado Epidemiologicamente,13
+La Pampa,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),21
+La Pampa,F,Caso confirmado por laboratorio - Fallecido,22
+La Pampa,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,33
+La Pampa,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1578
+La Pampa,F,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,1
+La Pampa,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,4
+La Pampa,F,Caso sospechoso - No Activo - Sin muestra,11
+La Pampa,M,Caso Descartado,3051
+La Pampa,M,Caso Invalidado Epidemiologicamente,13
+La Pampa,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),15
+La Pampa,M,Caso confirmado por laboratorio - Fallecido,27
+La Pampa,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,49
+La Pampa,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1419
+La Pampa,M,Caso sospechoso  - No Activo -  Muestra no apta,1
+La Pampa,M,Caso sospechoso - Activo Internado - Sin muestra,1
+La Pampa,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,3
+La Pampa,M,Caso sospechoso - No Activo - Sin muestra,9
+La Pampa,NR,Caso Descartado,77
+La Pampa,NR,Caso confirmado por laboratorio - Fallecido,1
+La Pampa,NR,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,1
+La Pampa,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),39
+La Rioja,F,Caso Descartado,1843
+La Rioja,F,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,1
+La Rioja,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),1
+La Rioja,F,Caso confirmado por laboratorio - Fallecido,17
+La Rioja,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,33
+La Rioja,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),654
+La Rioja,F,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,1
+La Rioja,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,5
+La Rioja,F,Caso sospechoso - No Activo - Sin muestra,12
+La Rioja,M,Caso Descartado,1825
+La Rioja,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),3
+La Rioja,M,Caso confirmado por laboratorio - Fallecido,30
+La Rioja,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,39
+La Rioja,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),662
+La Rioja,M,Caso sospechoso - Fallecido - Con muestra sin resultado concluyente,1
+La Rioja,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,9
+La Rioja,M,Caso sospechoso - No Activo - Sin muestra,23
+La Rioja,NR,Caso Descartado,25
+La Rioja,NR,Caso confirmado por laboratorio - Fallecido,2
+La Rioja,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),6
+Mendoza,F,Caso Descartado,11839
+Mendoza,F,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,10
+Mendoza,F,Caso confirmado por criterio clínico-epidemiologico - Fallecido,2
+Mendoza,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),214
+Mendoza,F,Caso confirmado por laboratorio - Fallecido,124
+Mendoza,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,80
+Mendoza,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),6293
+Mendoza,F,Caso sospechoso  - No Activo -  Muestra no apta,11
+Mendoza,F,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,6
+Mendoza,F,Caso sospechoso - Activo Internado - Sin muestra,9
+Mendoza,F,Caso sospechoso - Fallecido - Con muestra sin resultado concluyente,2
+Mendoza,F,Caso sospechoso - Fallecido - Sin muestra,4
+Mendoza,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,359
+Mendoza,F,Caso sospechoso - No Activo - Sin muestra,205
+Mendoza,F,Otro diagnostico,2
+Mendoza,F,Sin clasificar,1
+Mendoza,M,Caso Descartado,9894
+Mendoza,M,Caso con resultado negativo-no conclusivo - Fallecido,2
+Mendoza,M,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,20
+Mendoza,M,Caso confirmado por criterio clínico-epidemiologico - Fallecido,1
+Mendoza,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),179
+Mendoza,M,Caso confirmado por laboratorio - Fallecido,180
+Mendoza,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,112
+Mendoza,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),5795
+Mendoza,M,Caso sospechoso  - No Activo -  Muestra no apta,7
+Mendoza,M,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,5
+Mendoza,M,Caso sospechoso - Activo Internado - Sin muestra,14
+Mendoza,M,Caso sospechoso - Fallecido - Con muestra sin resultado concluyente,3
+Mendoza,M,Caso sospechoso - Fallecido - Sin muestra,2
+Mendoza,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,280
+Mendoza,M,Caso sospechoso - No Activo - Sin muestra,181
+Mendoza,M,Otro diagnostico,5
+Mendoza,M,Sin clasificar,1
+Mendoza,NR,Caso Descartado,149
+Mendoza,NR,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),1
+Mendoza,NR,Caso confirmado por laboratorio - Fallecido,1
+Mendoza,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),60
+Mendoza,NR,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,1
+Mendoza,NR,Caso sospechoso - Fallecido - Con muestra sin resultado concluyente,1
+Mendoza,NR,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,7
+Mendoza,NR,Caso sospechoso - No Activo - Sin muestra,4
+Misiones,F,Caso Descartado,1266
+Misiones,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),5
+Misiones,F,Caso confirmado por laboratorio - Fallecido,12
+Misiones,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,13
+Misiones,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),883
+Misiones,F,Caso sospechoso - Activo Internado - Sin muestra,1
+Misiones,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,8
+Misiones,F,Caso sospechoso - No Activo - Sin muestra,4
+Misiones,M,Caso Descartado,1376
+Misiones,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),7
+Misiones,M,Caso confirmado por laboratorio - Fallecido,12
+Misiones,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,18
+Misiones,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),880
+Misiones,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,15
+Misiones,M,Caso sospechoso - No Activo - Sin muestra,16
+Misiones,M,Otro diagnostico,1
+Misiones,NR,Caso Descartado,3
+Misiones,NR,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),1
+Misiones,NR,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,1
+Neuquén,F,Caso Descartado,2236
+Neuquén,F,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,2
+Neuquén,F,Caso confirmado por criterio clínico-epidemiologico - Fallecido,3
+Neuquén,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),367
+Neuquén,F,Caso confirmado por laboratorio - Fallecido,23
+Neuquén,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,24
+Neuquén,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),990
+Neuquén,F,Caso sospechoso - Activo Internado - Sin muestra,18
+Neuquén,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,69
+Neuquén,F,Caso sospechoso - No Activo - Sin muestra,391
+Neuquén,M,Caso Descartado,1803
+Neuquén,M,Caso Invalidado Epidemiologicamente,4
+Neuquén,M,Caso confirmado por criterio clínico-epidemiologico - Fallecido,1
+Neuquén,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),329
+Neuquén,M,Caso confirmado por laboratorio - Fallecido,31
+Neuquén,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,17
+Neuquén,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),982
+Neuquén,M,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,1
+Neuquén,M,Caso sospechoso - Activo Internado - Sin muestra,12
+Neuquén,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,70
+Neuquén,M,Caso sospechoso - No Activo - Sin muestra,362
+Neuquén,NR,Caso Descartado,13
+Neuquén,NR,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),3
+Neuquén,NR,Caso confirmado por laboratorio - Fallecido,1
+Neuquén,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),6
+Neuquén,NR,Caso sospechoso - Activo Internado - Sin muestra,1
+Neuquén,NR,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,1
+Neuquén,NR,Caso sospechoso - No Activo - Sin muestra,6
+Río Negro,F,Caso Descartado,3029
+Río Negro,F,Caso Invalidado Epidemiologicamente,1
+Río Negro,F,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,5
+Río Negro,F,Caso confirmado por criterio clínico-epidemiologico - Fallecido,1
+Río Negro,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),413
+Río Negro,F,Caso confirmado por laboratorio - Fallecido,23
+Río Negro,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,64
+Río Negro,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1247
+Río Negro,F,Caso sospechoso  - No Activo -  Muestra no apta,1
+Río Negro,F,Caso sospechoso - Activo Internado - Sin muestra,1
+Río Negro,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,8
+Río Negro,F,Caso sospechoso - No Activo - Sin muestra,41
+Río Negro,M,Caso Descartado,2433
+Río Negro,M,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,5
+Río Negro,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),334
+Río Negro,M,Caso confirmado por laboratorio - Fallecido,48
+Río Negro,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,55
+Río Negro,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1118
+Río Negro,M,Caso sospechoso - Activo Internado - Sin muestra,2
+Río Negro,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,3
+Río Negro,M,Caso sospechoso - No Activo - Sin muestra,37
+Río Negro,M,Otro diagnostico,2
+Río Negro,NR,Caso Descartado,55
+Río Negro,NR,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),7
+Río Negro,NR,Caso confirmado por laboratorio - Fallecido,1
+Río Negro,NR,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,1
+Río Negro,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),17
+Río Negro,NR,Caso sospechoso - No Activo - Sin muestra,3
+SIN ESPECIFICAR,F,Caso Descartado,856
+SIN ESPECIFICAR,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),55
+SIN ESPECIFICAR,F,Caso confirmado por laboratorio - Fallecido,2
+SIN ESPECIFICAR,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,12
+SIN ESPECIFICAR,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),361
+SIN ESPECIFICAR,F,Caso sospechoso - Activo Internado - Sin muestra,1
+SIN ESPECIFICAR,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,24
+SIN ESPECIFICAR,F,Caso sospechoso - No Activo - Sin muestra,8
+SIN ESPECIFICAR,M,Caso Descartado,723
+SIN ESPECIFICAR,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),27
+SIN ESPECIFICAR,M,Caso confirmado por laboratorio - Fallecido,1
+SIN ESPECIFICAR,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,16
+SIN ESPECIFICAR,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),268
+SIN ESPECIFICAR,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,24
+SIN ESPECIFICAR,M,Caso sospechoso - No Activo - Sin muestra,11
+SIN ESPECIFICAR,NR,Caso Descartado,14
+SIN ESPECIFICAR,NR,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,2
+SIN ESPECIFICAR,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1
+Salta,F,Caso Descartado,4340
+Salta,F,Caso Invalidado Epidemiologicamente,10
+Salta,F,Caso con resultado negativo-no conclusivo - Fallecido,1
+Salta,F,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,4
+Salta,F,Caso confirmado por criterio clínico-epidemiologico - Fallecido,2
+Salta,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),132
+Salta,F,Caso confirmado por laboratorio - Fallecido,19
+Salta,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,37
+Salta,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1343
+Salta,F,Caso sospechoso  - No Activo -  Muestra no apta,1
+Salta,F,Caso sospechoso - Activo Internado - Sin muestra,1
+Salta,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,37
+Salta,F,Caso sospechoso - No Activo - Sin muestra,20
+Salta,F,Otro diagnostico,3
+Salta,M,Caso Descartado,3641
+Salta,M,Caso Invalidado Epidemiologicamente,6
+Salta,M,Caso con resultado negativo-no conclusivo - Fallecido,1
+Salta,M,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,6
+Salta,M,Caso confirmado por criterio clínico-epidemiologico - Fallecido,2
+Salta,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),104
+Salta,M,Caso confirmado por laboratorio - Fallecido,22
+Salta,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,73
+Salta,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1197
+Salta,M,Caso sospechoso - Activo Internado - Sin muestra,1
+Salta,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,30
+Salta,M,Caso sospechoso - No Activo - Sin muestra,19
+Salta,M,Otro diagnostico,5
+Salta,NR,Caso Descartado,71
+Salta,NR,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),2
+Salta,NR,Caso confirmado por laboratorio - Fallecido,2
+Salta,NR,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,1
+Salta,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),29
+Salta,NR,Caso sospechoso - No Activo - Sin muestra,1
+San Juan,F,Caso Descartado,4879
+San Juan,F,Caso Invalidado Epidemiologicamente,1
+San Juan,F,Caso confirmado por criterio clínico-epidemiologico - Fallecido,3
+San Juan,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),10
+San Juan,F,Caso confirmado por laboratorio - Fallecido,18
+San Juan,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,9
+San Juan,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1590
+San Juan,F,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,2
+San Juan,F,Caso sospechoso - Activo Internado - Sin muestra,1
+San Juan,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,227
+San Juan,F,Caso sospechoso - No Activo - Sin muestra,249
+San Juan,F,Otro diagnostico,6
+San Juan,M,Caso Descartado,4102
+San Juan,M,Caso confirmado por criterio clínico-epidemiologico - Fallecido,7
+San Juan,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),6
+San Juan,M,Caso confirmado por laboratorio - Fallecido,23
+San Juan,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,9
+San Juan,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1569
+San Juan,M,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,1
+San Juan,M,Caso sospechoso - Fallecido - Con muestra sin resultado concluyente,1
+San Juan,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,177
+San Juan,M,Caso sospechoso - No Activo - Sin muestra,238
+San Juan,M,Otro diagnostico,6
+San Juan,NR,Caso Descartado,77
+San Juan,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),28
+San Juan,NR,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,11
+San Juan,NR,Caso sospechoso - No Activo - Sin muestra,8
+San Luis,F,Caso Descartado,9251
+San Luis,F,Caso confirmado por criterio clínico-epidemiologico - Fallecido,1
+San Luis,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),12
+San Luis,F,Caso confirmado por laboratorio - Fallecido,53
+San Luis,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,2589
+San Luis,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),5400
+San Luis,F,Caso sospechoso - Activo Internado - Sin muestra,9
+San Luis,F,Caso sospechoso - Fallecido - Sin muestra,1
+San Luis,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,319
+San Luis,F,Caso sospechoso - No Activo - Sin muestra,262
+San Luis,M,Caso Descartado,9065
+San Luis,M,Caso Invalidado Epidemiologicamente,2
+San Luis,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),14
+San Luis,M,Caso confirmado por laboratorio - Fallecido,86
+San Luis,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,2125
+San Luis,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),4739
+San Luis,M,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,1
+San Luis,M,Caso sospechoso - Activo Internado - Sin muestra,13
+San Luis,M,Caso sospechoso - Fallecido - Con muestra sin resultado concluyente,1
+San Luis,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,293
+San Luis,M,Caso sospechoso - No Activo - Sin muestra,243
+San Luis,NR,Caso Descartado,1
+San Luis,NR,Caso sospechoso - Activo Internado - Sin muestra,1
+San Luis,NR,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,5
+San Luis,NR,Caso sospechoso - No Activo - Sin muestra,2
+Santa Cruz,F,Caso Descartado,2655
+Santa Cruz,F,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,1
+Santa Cruz,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),112
+Santa Cruz,F,Caso confirmado por laboratorio - Fallecido,14
+Santa Cruz,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,6
+Santa Cruz,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1251
+Santa Cruz,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,14
+Santa Cruz,F,Caso sospechoso - No Activo - Sin muestra,457
+Santa Cruz,F,Otro diagnostico,1
+Santa Cruz,M,Caso Descartado,2895
+Santa Cruz,M,Caso confirmado por criterio clínico-epidemiologico - Fallecido,1
+Santa Cruz,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),86
+Santa Cruz,M,Caso confirmado por laboratorio - Fallecido,28
+Santa Cruz,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,20
+Santa Cruz,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1224
+Santa Cruz,M,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,1
+Santa Cruz,M,Caso sospechoso - Activo Internado - Sin muestra,1
+Santa Cruz,M,Caso sospechoso - Fallecido - Sin muestra,1
+Santa Cruz,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,16
+Santa Cruz,M,Caso sospechoso - No Activo - Sin muestra,565
+Santa Cruz,NR,Caso Descartado,17
+Santa Cruz,NR,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),2
+Santa Cruz,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),11
+Santa Cruz,NR,Caso sospechoso - No Activo - Sin muestra,6
+Santa Fe,F,Caso Descartado,17692
+Santa Fe,F,Caso Invalidado Epidemiologicamente,1
+Santa Fe,F,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,2
+Santa Fe,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),26
+Santa Fe,F,Caso confirmado por laboratorio - Fallecido,164
+Santa Fe,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,41
+Santa Fe,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),11719
+Santa Fe,F,Caso sospechoso  - No Activo -  Muestra no apta,47
+Santa Fe,F,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,2
+Santa Fe,F,Caso sospechoso - Activo Internado - Sin muestra,2
+Santa Fe,F,Caso sospechoso - Fallecido - Sin muestra,1
+Santa Fe,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,209
+Santa Fe,F,Caso sospechoso - No Activo - Sin muestra,191
+Santa Fe,F,Otro diagnostico,3
+Santa Fe,F,Sin clasificar,1
+Santa Fe,M,Caso Descartado,14191
+Santa Fe,M,Caso Invalidado Epidemiologicamente,2
+Santa Fe,M,Caso con resultado negativo-no conclusivo - Fallecido,1
+Santa Fe,M,Caso confirmado por criterio clínico-epidemiologico - Fallecido,3
+Santa Fe,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),36
+Santa Fe,M,Caso confirmado por laboratorio - Fallecido,245
+Santa Fe,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,42
+Santa Fe,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),10812
+Santa Fe,M,Caso sospechoso  - No Activo -  Muestra no apta,33
+Santa Fe,M,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,4
+Santa Fe,M,Caso sospechoso - Activo Internado - Muestra no apta,1
+Santa Fe,M,Caso sospechoso - Activo Internado - Sin muestra,2
+Santa Fe,M,Caso sospechoso - Fallecido - Con muestra sin resultado concluyente,2
+Santa Fe,M,Caso sospechoso - Fallecido - Sin muestra,3
+Santa Fe,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,216
+Santa Fe,M,Caso sospechoso - No Activo - Sin muestra,198
+Santa Fe,M,Otro diagnostico,5
+Santa Fe,M,Sin clasificar,1
+Santa Fe,NR,Caso Descartado,101
+Santa Fe,NR,Caso confirmado por laboratorio - Fallecido,1
+Santa Fe,NR,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,1
+Santa Fe,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),74
+Santa Fe,NR,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,1
+Santa Fe,NR,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,2
+Santa Fe,NR,Caso sospechoso - No Activo - Sin muestra,5
+Santiago del Estero,F,Caso Descartado,2608
+Santiago del Estero,F,Caso con resultado negativo-no conclusivo - Fallecido,1
+Santiago del Estero,F,Caso confirmado por criterio clínico - epidemiológico -  Activo internado,1
+Santiago del Estero,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),17
+Santiago del Estero,F,Caso confirmado por laboratorio - Fallecido,12
+Santiago del Estero,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,17
+Santiago del Estero,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1416
+Santiago del Estero,F,Caso sospechoso  - No Activo -  Muestra no apta,1
+Santiago del Estero,F,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,10
+Santiago del Estero,F,Caso sospechoso - Activo Internado - Sin muestra,1
+Santiago del Estero,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,140
+Santiago del Estero,F,Caso sospechoso - No Activo - Sin muestra,504
+Santiago del Estero,F,Otro diagnostico,1
+Santiago del Estero,M,Caso Descartado,2965
+Santiago del Estero,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),14
+Santiago del Estero,M,Caso confirmado por laboratorio - Fallecido,25
+Santiago del Estero,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,55
+Santiago del Estero,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1482
+Santiago del Estero,M,Caso sospechoso  - No Activo -  Muestra no apta,7
+Santiago del Estero,M,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,17
+Santiago del Estero,M,Caso sospechoso - Activo Internado - Muestra no apta,1
+Santiago del Estero,M,Caso sospechoso - Activo Internado - Sin muestra,4
+Santiago del Estero,M,Caso sospechoso - Fallecido - Con muestra sin resultado concluyente,1
+Santiago del Estero,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,88
+Santiago del Estero,M,Caso sospechoso - No Activo - Sin muestra,324
+Santiago del Estero,M,Otro diagnostico,1
+Santiago del Estero,NR,Caso Descartado,65
+Santiago del Estero,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),20
+Santiago del Estero,NR,Caso sospechoso - Fallecido - Sin muestra,1
+Santiago del Estero,NR,Caso sospechoso - No Activo - Sin muestra,3
+Tierra del Fuego,F,Caso Descartado,1287
+Tierra del Fuego,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),22
+Tierra del Fuego,F,Caso confirmado por laboratorio - Fallecido,9
+Tierra del Fuego,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,3
+Tierra del Fuego,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),636
+Tierra del Fuego,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,4
+Tierra del Fuego,F,Caso sospechoso - No Activo - Sin muestra,73
+Tierra del Fuego,M,Caso Descartado,1156
+Tierra del Fuego,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),21
+Tierra del Fuego,M,Caso confirmado por laboratorio - Fallecido,6
+Tierra del Fuego,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,4
+Tierra del Fuego,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),623
+Tierra del Fuego,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,9
+Tierra del Fuego,M,Caso sospechoso - No Activo - Sin muestra,99
+Tierra del Fuego,NR,Caso Descartado,7
+Tierra del Fuego,NR,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),3
+Tierra del Fuego,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),1
+Tierra del Fuego,NR,Caso sospechoso - No Activo - Sin muestra,2
+Tucumán,F,Caso Descartado,13855
+Tucumán,F,Caso con resultado negativo-no conclusivo - Fallecido,1
+Tucumán,F,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),6
+Tucumán,F,Caso confirmado por laboratorio - Fallecido,49
+Tucumán,F,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,41
+Tucumán,F,Caso confirmado por laboratorio - No activo (por tiempo de evolución),5042
+Tucumán,F,Caso sospechoso  - No Activo -  Muestra no apta,1
+Tucumán,F,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,2
+Tucumán,F,Caso sospechoso - Activo Internado - Sin muestra,3
+Tucumán,F,Caso sospechoso - Fallecido - Con muestra sin resultado concluyente,1
+Tucumán,F,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,85
+Tucumán,F,Caso sospechoso - No Activo - Sin muestra,491
+Tucumán,F,Otro diagnostico,1
+Tucumán,M,Caso Descartado,11909
+Tucumán,M,Caso confirmado por criterio clínico-epidemiológico - No activo (por tiempo de evolución),6
+Tucumán,M,Caso confirmado por laboratorio - Fallecido,82
+Tucumán,M,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,56
+Tucumán,M,Caso confirmado por laboratorio - No activo (por tiempo de evolución),4650
+Tucumán,M,Caso sospechoso - Activo Internado - Con muestra sin resultado concluyente,2
+Tucumán,M,Caso sospechoso - Activo Internado - Sin muestra,5
+Tucumán,M,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,62
+Tucumán,M,Caso sospechoso - No Activo - Sin muestra,432
+Tucumán,NR,Caso Descartado,114
+Tucumán,NR,Caso confirmado por laboratorio - Fallecido,1
+Tucumán,NR,Caso confirmado por laboratorio - No Activo por criterio de laboratorio,1
+Tucumán,NR,Caso confirmado por laboratorio - No activo (por tiempo de evolución),29
+Tucumán,NR,Caso sospechoso - No Activo - Con muestra sin resultado concluyente,18
+Tucumán,NR,Caso sospechoso - No Activo - Sin muestra,34
